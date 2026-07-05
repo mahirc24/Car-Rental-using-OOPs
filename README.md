@@ -95,7 +95,7 @@ The system initializes with a pre-populated database containing 5 Customers, 5 E
 The code was developed on the **Windows** operating system.
 
 ## Author
-- **Utkarsh Singh**
-- Electrical Engineering
+- **Mahir Chopra**
+- BS-MTH 
 - IIT Kanpur
-- 241117
+- 240609
